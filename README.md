@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ... -->
 
 
-## 👨‍💻 Some of my small⚡fun projects (saved on heroku)
+## 👨‍💻 Some of my mini⚡fun projects
 
 - API - To query animals scientific classification: **[AnimaliAPI](https://animaliapi.herokuapp.com/)**
 
