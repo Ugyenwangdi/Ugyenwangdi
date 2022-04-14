@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ More About Me
 
-- 🔭 I’m currently working on two projects one of which is a Data Analytic's project and other one is a Computer vision project.
+- 🔭 I’m currently working on two projects, one is a Data Analytic's project and the other one is a Computer vision project.
 - 🌱 I’m currently learning Data Analytics and Python.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
