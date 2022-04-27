@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ More About Me
 
-- 🔭 Currently working on two projects, one is a Data Analytic's project and the other one is a Computer vision project.
+- 🔭 Currently working on two projects.
 - 🌱 Learning Data Analytics and Python.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -66,7 +66,7 @@
 <!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
+<!-- <a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
 <a href = "https://medium.com/@wdzz"><img src="https://img.icons8.com/ios/50/000000/medium-logo.png"/></a>  
 <!-- <a href = "https://dev.to/wulfi"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a> -->
     
