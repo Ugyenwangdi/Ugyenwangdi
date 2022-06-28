@@ -78,9 +78,9 @@
 
 <!-- <a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <!-- <a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
+<a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
 <!-- <a href = "https://medium.com/@wdzz"><img src="https://img.icons8.com/ios/50/000000/medium-logo.png"/></a>   -->
 <!-- <a href = "https://dev.to/wulfi"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a> -->
     
@@ -97,5 +97,5 @@
 
 
  
-<a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href="https://medium.com/@wdzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://hashnode.com/@Wulfi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/wulfi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
-    <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href="https://medium.com/@wdzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://hashnode.com/@Wulfi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/wulfi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
+    
