@@ -6,8 +6,8 @@
 
 ## 🙋‍♂️ More About Me
 
-- 🔭 Currently working on two projects.
-- 🌱 Learning Data Analytics and Python.
+- 🔭 Currently working on my API project.
+- 🌱 Learning APIs and Python.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ... -->
 
 
-## 👨‍💻 Some of my mini⚡fun projects
+## 👨‍💻 Some of my mini⚡Works
 
 - API - To query animals scientific classification: **[AnimaliAPI](https://animaliapi.herokuapp.com/)**
 
