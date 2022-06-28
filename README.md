@@ -54,7 +54,7 @@
 </p>
 
 <details>
-<summary>## 📊 My Github Stats</summary>
+<summary>📊 My Github Stats</summary>
     <br>
 
 
