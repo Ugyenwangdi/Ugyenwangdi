@@ -15,6 +15,15 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+## 👨‍💻 Semester Projects 
+
+- KEWA DOCTOR - To classify Potato leaf diseases (Team): **[Website](https://kewadoctor.herokuapp.com/)**
+
+- Fuel Price Prediction (Team): **[Website](https://fuelpriceprediction.herokuapp.com/)**
+
+- Virtual Study App (Team): **[App](https://github.com/Ugyenwangdi/VirtualStudy)**
+
+- Share-i (My mini project in Mobile Application module): **[App](https://github.com/Ugyenwangdi/Share-i)**
 
 ## 👨‍💻 Some of my mini⚡Works
 
@@ -25,6 +34,8 @@
 - Get the Top headlines from CNN: news app using newsapi and Django: **[Newsapp](https://whatisthenews.herokuapp.com/)**
 
 - Weather project: **[Weatherapp](https://whatdowea.herokuapp.com/)**
+
+
 
 ## 🚀 Languages and Tools:
 
