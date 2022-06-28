@@ -71,23 +71,23 @@
 <br/>
 <br/>
 <!--  -->
-<!-- 
+
 ## Connect with me:
-<p align="center"> -->
+<p align="center">
     
 
 <!-- <a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <!-- <a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<!-- <a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
+<!-- <a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
 <!-- <a href = "https://medium.com/@wdzz"><img src="https://img.icons8.com/ios/50/000000/medium-logo.png"/></a>   -->
 <!-- <a href = "https://dev.to/wulfi"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a> -->
     
 <!-- <img src="https://img.icons8.com/ios-glyphs/30/000000/medium-logo.png"/>   -->
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
-<!-- </p> -->
+</p>
 <!-- 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -96,11 +96,11 @@
 <a href="https://github.com/Ugyenwangdi?tab=followers"><img src="https://img.shields.io/github/followers/Ugyenwangdi?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 
-<details>
+<!-- <details>
 <summary>Connect with me: </summary>
  <br>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</details>
+</details> -->
 
 <details>
 <summary>My Blog Posts</summary>
