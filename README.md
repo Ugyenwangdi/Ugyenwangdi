@@ -27,7 +27,7 @@
 
 - Share-i (Mobile Application module): **[App](https://github.com/Ugyenwangdi/Share-i)**
 
-- API - To query animals scientific classification: **[AnimaliAPI](https://animaliapi.herokuapp.com/)**
+- AnimaliAPI - To query animals scientific classification: **[API](https://animaliapi.herokuapp.com/)**
 
 ## 👨‍💻 Some of my mini⚡Works
 
@@ -36,7 +36,7 @@
  
 - House price prediction using linear regression: **[Boston House Price](https://housepprediction.herokuapp.com/)**
 
-- Get the Top headlines from CNN: news app using newsapi and Django: **[Newsapp](https://whatisthenews.herokuapp.com/)**
+- Top headlines from CNN: news app using newsapi and Django: **[Newsapp](https://whatisthenews.herokuapp.com/)**
 
 - Weather project: **[Weatherapp](https://whatdowea.herokuapp.com/)**
 
