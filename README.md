@@ -25,9 +25,11 @@
 
 - Share-i (My mini project in Mobile Application module): **[App](https://github.com/Ugyenwangdi/Share-i)**
 
+- API - To query animals scientific classification: **[AnimaliAPI](https://animaliapi.herokuapp.com/)**
+
 ## 👨‍💻 Some of my mini⚡Works
 
-- API - To query animals scientific classification: **[AnimaliAPI](https://animaliapi.herokuapp.com/)**
+
 
 - House price prediction using linear regression: **[Boston House Price](https://housepprediction.herokuapp.com/)**
 
