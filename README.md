@@ -7,7 +7,7 @@
 ## 🙋‍♂️ More About Me
 
 - 🔭 Currently working on my API project.
-- 🌱 Learning APIs and Python.
+- 🌱 Currently learning Python and Data analytics.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
