@@ -32,7 +32,7 @@
 ## 👨‍💻 Some of my mini⚡Works
 
 
-- Sloth-speci: **[Boston House Price](https://sloth-specie.herokuapp.com/)**
+- Sloth-speci: **[Sloth Specie](https://sloth-specie.herokuapp.com/)**
  
 - House price prediction using linear regression: **[Boston House Price](https://housepprediction.herokuapp.com/)**
 
