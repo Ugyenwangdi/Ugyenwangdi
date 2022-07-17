@@ -66,21 +66,21 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+<!-- <br/>
 <br/>
 
 <a href="https://github.com/Ugyenwangdi/github-readme-activity-graph"><img alt="Ugyen Wangdi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ugyenwangdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 <!--  -->
 
 ## Connect with me:
 <p align="center">
     
 
-<!-- <a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-<!-- <a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://hashnode.com/@Wulfi"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
