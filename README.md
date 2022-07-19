@@ -17,11 +17,11 @@
 
 ## 👨‍💻 Some of my Projects 
 
-- Personal Website: **[Website](https://wulfi.herokuapp.com)**
+- Personal Website: **[Web](https://wulfi.herokuapp.com)**
 
-- KEWA DOCTOR - To classify Potato leaf diseases (Team): **[Website](https://kewadoctor.herokuapp.com/)**
+- KEWA DOCTOR - To classify Potato leaf diseases (Team): **[Web](https://kewadoctor.herokuapp.com/)**
 
-- Fuel Price Prediction (Team): **[Website](https://fuelpriceprediction.herokuapp.com/)**
+- Fuel Price Prediction (Team): **[Web](https://fuelpriceprediction.herokuapp.com/)**
 
 - Virtual Study App (Team): **[App](https://github.com/Ugyenwangdi/VirtualStudy)**
 
