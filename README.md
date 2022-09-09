@@ -63,7 +63,7 @@
     <a href="https://github.com/Ugyenwangdi/github-readme-stats"><img alt="Ugyen Wangdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ugyenwangdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ugyenwangdi/github-readme-stats"><img alt="Ugyen Wangdi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugyenwangdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <!-- <br/>
@@ -74,7 +74,7 @@
 <br/>
 <br/> -->
 
-<!--  <br>
+<br>
 
 <details>
 <summary>Connect with me:</summary>
@@ -106,11 +106,11 @@
  <br>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </details> -->
-<!-- 
+
 <details>
 <summary>My Blog Posts</summary>
  <br>
 
 <a href="https://medium.com/@wdzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://hashnode.com/@Wulfi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/wulfi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
     
-</details> -->
+</details> 
