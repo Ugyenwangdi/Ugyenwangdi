@@ -11,7 +11,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-📫 Contact me at wulfibot@gmail.com
+<!-- 📫 Contact me at  -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
@@ -100,11 +100,6 @@
 <a href="https://github.com/Ugyenwangdi?tab=followers"><img src="https://img.shields.io/github/followers/Ugyenwangdi?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 
-<!-- <details>
-<summary>Connect with me: </summary>
- <br>
-<a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href = "https://www.linkedin.com/in/ugyen-wangdi-55ba2523b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</details> -->
 
 <details>
 <summary>My Blog Posts</summary>
