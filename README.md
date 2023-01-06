@@ -7,7 +7,7 @@
 ## 🙋‍♂️ More About Me
 
 - 🔭 Currently working on Django and React ecommerce project.
-- 🌱 Learning Python, Data analytics, Full Stack.
+- 🌱 Learning Python, Machine Learning, Full Stack.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
