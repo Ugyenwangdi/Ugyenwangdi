@@ -87,9 +87,13 @@
 
 
 <!-- <details> -->
-<summary align="center">My Blog Posts</summary>
+<!-- <summary align="center">My Blog Posts</summary> -->
  <br>
+ 
+ <div align="center">
 
 <a href="https://medium.com/@wdzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://hashnode.com/@Wulfi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/wulfi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
+ 
+ </div>
     
 <!-- </details>  -->
