@@ -68,20 +68,6 @@
 
 <br/> -->
 
-
-<details>
-<summary>Connect with me:</summary>
- <br>
-
-<p align="center">
-    
-
-<a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/ughenwangdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
- 
      
 </details>
 
