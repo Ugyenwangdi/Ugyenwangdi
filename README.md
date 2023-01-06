@@ -6,8 +6,8 @@
 
 ## 🙋‍♂️ More About Me
 
-- 🔭 Currently working on my API project.
-- 🌱 Learning Python and Data analytics.
+- 🔭 Currently working on Django and React ecommerce project.
+- 🌱 Learning Python, Data analytics, Full Stack.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
