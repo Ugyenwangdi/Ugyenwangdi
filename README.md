@@ -68,8 +68,8 @@
 
 <br/>
 <br/>
-<!-- 
-<a href="https://github.com/Ugyenwangdi/github-readme-activity-graph"><img alt="Ugyen Wangdi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ugyenwangdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+<a href="https://github.com/Ugyenwangdi/github-readme-activity-graph"><img alt="Ugyen Wangdi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ugyenwangdi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -86,19 +86,10 @@
 <a href = "https://www.linkedin.com/in/ughenwangdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/wulfi25t/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
 </p>
  
      
 </details>
-<!-- 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ugyenwangdi">
-</a>
-<a href="https://github.com/Ugyenwangdi?tab=followers"><img src="https://img.shields.io/github/followers/Ugyenwangdi?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
 
 
 <details>
