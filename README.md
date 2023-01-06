@@ -1,4 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/57824653/210931656-d0d02489-9153-4e8e-bf51-69f422c002aa.png" height="175px"/></a>
+
+
+<!-- ![image](https://user-images.githubusercontent.com/57824653/210931656-d0d02489-9153-4e8e-bf51-69f422c002aa.png) -->
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ugyen Wangdi</h1>
 <!-- <h3 align="center">I'm from Bhutan</h3> -->
