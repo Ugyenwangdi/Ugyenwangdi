@@ -40,7 +40,7 @@
 
 - Weather project: **[Weatherapp](https://whatdowea.herokuapp.com/)** -->
 
-
+<!-- 
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -50,7 +50,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
 
 </p>
-<br/>
+<br/> -->
 <p align="center">
     <a href="https://github.com/Ugyenwangdi/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ugyen Wangdi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ugyenwangdi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
