@@ -15,7 +15,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- 📫 Contact me at  -->
+📫 Contact me at wulficode@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
