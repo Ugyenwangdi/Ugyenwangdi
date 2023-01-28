@@ -11,7 +11,7 @@
 ## 🙋‍♂️ More About Me
 
 - 🔭 Currently working on an ecommerce project.
-- 🌱 Learning Full Stack.
+- 🌱 Learning Full Stack through 100DaysOfCode challenge
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
