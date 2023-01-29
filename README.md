@@ -12,9 +12,9 @@
 
 - 🔭 Currently working on an ecommerce project.
 - 🌱 Learning Full Stack through 100DaysOfCode challenge
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 👯 I’m looking to collaborate on projects
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 💬 Ask me about Full Stack web development, APIs and coding in general
 - 📫 Contact me at wulfibot@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
