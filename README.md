@@ -31,19 +31,6 @@
      
 </details>
 
- <br>
-
- <div align="center">
-
-   <a href="https://medium.com/@wdzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://hashnode.com/@Wulfi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/wulfi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
- 
- <br>
-<a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/ughenwangdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
- </div>
-
-
  
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -101,6 +88,21 @@
 [![](https://visitcount.itsvg.in/api?id=Ugyenwangdi&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
+
+
+ <br>
+
+ <div align="center">
+
+   <a href="https://medium.com/@wdzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium Link"/></a> <a href="https://hashnode.com/@Wulfi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hasnode link"/></a> <a href= "https://dev.to/wulfi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to link"/><a/>
+ 
+ <br>
+<a href = "https://twitter.com/wu_25iytt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/ughenwangdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+ </div>
+
+
 
 
 
