@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ More About Me
 
-- 🔭 Currently working on an ecommerce project.
+- 🔭 Currently working on Druk eBird project for RSPN Bhutan.
 - 🌱 Learning Full Stack through 100DaysOfCode challenge.
 - 👯 I’m looking to collaborate on projects.
 <!-- - 🤔 I’m looking for help with ... -->
