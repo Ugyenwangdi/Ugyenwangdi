@@ -18,11 +18,11 @@
 
 ## 🙋‍♂️ More About Me
 
-- 🔭 Currently working on Druk eBird project for RSPN Bhutan.
-- 🌱 Learning Full Stack through 100DaysOfCode challenge.
-- 👯 I’m looking to collaborate on projects.
+- 🔭 Currently working on the Druk eBird project for RSPN Bhutan.
+- 🌱 Learning Full Stack through the 100DaysOfCode challenge.
+- 👯 Looking to collaborate on projects.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Let's talk about Full Stack web development, APIs and coding in general.
+- 💬 Let's discuss Full Stack web development, APIs, and coding in general.
 - 📫 Contact me at wulfibot@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
