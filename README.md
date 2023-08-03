@@ -23,7 +23,7 @@
 - 👯 Looking to collaborate on projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Let's discuss Full Stack web development, APIs, and coding in general.
-- 📫 Contact me at wulfibot@gmail.com
+<!-- - 📫 Contact me at w -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
