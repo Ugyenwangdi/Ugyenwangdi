@@ -19,7 +19,7 @@
 ## 🙋‍♂️ More About Me
 
 - 🔭 Currently working on the Druk eBird project for RSPN Bhutan.
-- 🌱 Learning Full Stack through the 100DaysOfCode challenge.
+- 🌱 Learning Full Stack through
 - 👯 Looking to collaborate on projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Let's discuss Full Stack web development, APIs, and coding in general.
